@@ -1,0 +1,2 @@
+model_checkpoint_path: "chekhov_gru_emb256_units256_rnnactrelu_outactsoftmax_ep50_bs64_checkpoint.ckpt"
+all_model_checkpoint_paths: "chekhov_gru_emb256_units256_rnnactrelu_outactsoftmax_ep50_bs64_checkpoint.ckpt"
